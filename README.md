@@ -339,13 +339,7 @@ void timeoutProtection() {
 - [ ] Multiple lane support
 - [ ] Emergency vehicle detection and priority
 
-## 🎥 Demo
 
-### Video Demonstration
-[Add YouTube link showing system in action]
-
-### Photos
-[Add photos of physical setup]
 
 ## 📚 Educational Use
 
